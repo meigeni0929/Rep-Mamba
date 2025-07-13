@@ -53,5 +53,5 @@ python train.py
 
 ## Contact
 If you have any questions or suggestions, feel free to contact me.  
-Email: 24s103263@stu.hit.edu.cn
+Email: 24s103263@stu.hit.edu.cn , ymr2200642844@163.com
 
